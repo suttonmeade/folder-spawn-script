@@ -15,14 +15,14 @@ Here's a recommended prank too after you run the script (FakeWindowsDesktop):
 9. Right click a empty area > view > uncheck show desktop icons
 10. Go to settings
 11. Taskbar location on screen > Right
-12. AUTOMATICLY hide the taskbar in desktop mode ON & automaticly hide the taskbar in tablet mode ON
-# Windows 11 Tutriorual for 11th step:
+12. AUTOMATICALLY hide the taskbar in desktop mode ON & automaticly hide the taskbar in tablet mode ON
+# Windows 11 Tutorial for 11th step:
 1. Look online for StartAllBack/StartIsBack
 2. Download it
 3. Open the installation file
 4. Install
 5. You should get a notfication regarding Windows 11 StartAllBack/StartIsBack so click on it
-6. Let it insall
+6. Let it install
 7. Look for a thing that says "taskbar location". Set that to right
 
 
